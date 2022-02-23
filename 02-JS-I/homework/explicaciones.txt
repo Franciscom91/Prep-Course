@@ -1,0 +1,7 @@
+1)
+* Variable: una variable es un valor que se le asigna a un dato, puede ser un nombre, número o cualquier otro tipo de dato.
+* String: se concidera string a una cadena de texto.
+* Funciones: las funciones son bloques de código que permiten ser llamadas sin ser repetidas. Return se utiliza para devolver un valor.
+* Declaraciones: asignarle un valor a la variable.
+* Valores booleanos: son expresiones lógicas verdaderas o falsas.
+
