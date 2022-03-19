@@ -1,0 +1,7 @@
+1) for: El bucle "for" se compone en tres argumentos. En el primero se declara una variable, en el segundo se establece la condición hasta donde se ejecutará el bucle y en el tercero se indicará el incremento de dicha variable, utilizando en este caso "++".
+
+2) &&: Este operador lógico, tambien llamado "Y" o "AND", evalúa los argumentos de la función. Para que devuelva un valor verdadero, los dos argumentos (o más que se comparen) deberán ser verdaderos. En el caso que uno de ellos sea falso, devolverá "false".
+
+3) ||: Este operador lógico, tambien llamado "O" o "OR", evalúa los argumentos de la función. Para que devuelva un valor verdadero, solamente se debe cumplir con uno de los parámetros comparados. Con tan solo un valor verdadero, la función retornará "true". En el caso que todos los valores sean falsos, la función retornará "false".
+
+4) !: Este operador lógico, tambien llamado "NO" o "NOT", devuelve el valor opuesto a los argumentos de la función.
