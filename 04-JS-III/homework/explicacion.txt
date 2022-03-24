@@ -1,0 +1,2 @@
+1) Arrays: Los arrays o tambien llamados arreglos/matrices, son contenedores de datos, en el cual se pueden almacenar distintos tipos de datos, ya sea numeros enteros, cadenas de texto, valores booleanos, objetos, otros arreglos, etc.
+Ademas de ello, podremos acceder a estos datos ya sea para agregar, modificar o eliminar los que querramos.
