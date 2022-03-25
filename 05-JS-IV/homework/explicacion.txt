@@ -1,0 +1,12 @@
+1) Objetos: Los objetos se asemejan a los arrays o matrices, pero a diferencia de estos, los objetos van a contener varios datos de una sola cosa. Identificandolos con la sintaxis de clave:valor. Es decir que la clave o key contenerá el identificador (ej. nombre) y el valor o value el dicho valor del identificador (ej. José). De esta manera se pueden almacenar muchos datos en un solo objeto.
+
+2) Propiedades: El conjunto de clave:valor de cada objeto.
+
+3) Métodos: Los métodos son funciones que se pueden guardar en un objeto. Podemos llamar a la función utilizando el nombre del objeto, seguido de un punto y el nombre de la función. En esta última se le puede pasar un parámetro como cualquier otra función. (ej: nombreDelObjeto.nombreDelaFunción(parámetro)).
+
+4) Bucle "for...in": El bucle "for...in" es similar al bucle "for", a diferencia que el primero se utiliza para objetos ya que cada par de clave:valor no posee indice numérico como en el segundo.
+Este bucle hará iteraciones en el objeto pasando por todas las claves. La sintaxis es similar a la del bucle "for", pero como parámetro se deberá declarar una variable, seguido de "in" y luego el objeto.
+
+5) Notación:
+    a) de puntos: la sintaxis de esta se compone de el nombre del objeto, seguido de punto y el nombre de la clave. Se utiliza para obtener el valor.
+    b) de corchetes: Tambien se utiliza para obtener un valor de la clave, pero en este caso la sintaxis será diferente. El nombre del objeto, seguido de corchetes, y dentro del mismo mismo el nombre de la clave como "string" o número.
