@@ -1,0 +1,1 @@
+1) Funciones Callback: Los Callback son funciones dentro de los parámetros de otras funciones.
